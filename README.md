@@ -1,4 +1,4 @@
-I created a landing Page using Reactjs and Tailwind css. Landing Page Deployed link:- https://assign012.netlify.app/
+I created a landing Page using Reactjs and Tailwind css. Landing Page Deployed link:- (https://markassignment2.netlify.app/)
 
 Mobile-friendly design 
 ## Technologies Used
